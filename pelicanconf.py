@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Liucheng Xu'
+AUTHOR = 'Test'
 SITENAME = 'Focus on ML & DM'
-SITEURL = 'https://liuchengxu.github.io/pelican-blog'
+SITEURL = 'https://1007530194.github.io/pelican-blog'
 #  GITHUB_URL = 'https://github.com/liuchengxu'
 GOOGLE_ANALYTICS_UNIVERSAL = 'UA-73260325-2'
 GOOGLE_ANALYTICS_UNIVERSAL_PROPERTY = 'auto'
@@ -28,7 +28,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Homepage', 'https://liuchengxu.github.io/'),)
+         ('Homepage', 'https://1007530194.github.io/'),)
 
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/liuchengxu'),
